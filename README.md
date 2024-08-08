@@ -1,6 +1,6 @@
 # STM32-INTERNSHIP-WORKSHOP-PHYTEC-INDIA
 
-Welcome to my STM32 workshop repository! This project is a culmination of various exercises and implementations conducted during my workshop on the STM32 Cortex-M architecture, specifically using the PHYTEC InDIA environment.
+Welcome to my STM32 workshop repository! This project is a culmination of various exercises and implementations conducted during my workshop on the STM32 Cortex-M architecture in PHYTEC INDIA .
 
 ***********************************************Overview*********************************************************
 
